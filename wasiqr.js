@@ -68,12 +68,12 @@ ______________________________________
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ *Ytube:* _https://www.youtube.com/@ChrisSpark-XMD
+║❒ *Ytube:* _https://www.youtube.com/@Xchristech
 ║❒ *Owner:* https://wa.me/2348069675806_
-║❒ *Repo:* _https://github.com/Chimbiko-xd/CHRISSPARK-XMD_
+║❒ *Repo:* _https://github.com/Xchristech/CHRISSPARK-XMD_
 ║❒ *WaGroup:* _https://chat.whatsapp.com/HxyBOQYd4kF6q0vzKXeW3w
 ║❒ *WaChannel:* _https://whatsapp.com/channel/0029Vb5qc6N2Jl8E3EcVBv0t
-║❒ *Plugins:* _https://github.com/Chimbiko-xd 
+║❒ *Plugins:* _https://github.com/Xchristech 
 ╚════════════════════════╝
 _____________________________________
 	
