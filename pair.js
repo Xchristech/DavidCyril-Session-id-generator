@@ -58,7 +58,7 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 *_Pair Code Connected by CHRISSPARK*
-*_Made With Chris gaaju💯_*
+*_Made With ❤️_*
 ______________________________________
 ╔════◇
 ║ *『 AMAZING YOU'VE CHOSEN CHRISSPARK XMD 』*
